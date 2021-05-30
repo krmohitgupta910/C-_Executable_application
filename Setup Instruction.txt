@@ -1,0 +1,4 @@
+Install the Setup file from Debug folder
+
+Id: krmohit
+Pass: krmohit0
